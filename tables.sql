@@ -3,7 +3,7 @@ id serial primary key,
 name varchar(1024)
 );
 
-create table "'groups'"(
+create table "groups"(
 id serial primary key,
 name varchar(2048) not null,
 short_name varchar(64) not null unique,
