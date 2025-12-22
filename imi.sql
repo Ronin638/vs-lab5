@@ -1,0 +1,1 @@
+insert into institutes (name) values ('Институт Математики и Информатики');
